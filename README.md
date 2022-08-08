@@ -1,8 +1,6 @@
 # Hi, I'm Airla
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airla&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airla&layout=compact&theme=radical)](https://github.com/airla/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airla&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airla&layout=compact&theme=radical)](https://github.com/airla/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

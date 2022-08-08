@@ -1,6 +1,8 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/008/958/307/large/misha-oplev-color-practice.jpg?1516302854)](https://github.com/Airla)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airla&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airla&layout=compact&theme=radical)](https://github.com/airla/github-readme-stats)
+# Hi, I'm Airla
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airla&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airla&layout=compact&theme=radical)](https://github.com/airla/github-readme-stats)
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
